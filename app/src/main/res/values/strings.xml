@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Incorrect</string>
+    <string name="no_internet">No internet connection :(</string>
+    <string name="highest_score_text">Highest score</string>
+    <string name="score_text">Score:</string>
+    <string name="trivia_string">Trivia</string>
+    <string name="sample_question_string">Sample Question</string>
+    <string name="true_string">True</string>
+    <string name="false_string">False</string>
+    <string name="next_qn_desc">This takes the user to the next question.</string>
+    <string name="prev_qn_desc">This takes the user to the previous question.</string>
+    <string name="reload_string">Reload</string>
+</resources>
